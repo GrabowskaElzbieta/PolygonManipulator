@@ -1,0 +1,10 @@
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\bin\Debug\PolygonManipulator.exe.config
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\bin\Debug\PolygonManipulator.exe
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\bin\Debug\PolygonManipulator.pdb
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\obj\Debug\PolygonManipulator.csprojAssemblyReference.cache
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\obj\Debug\PolygonManipulator.Form1.resources
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\obj\Debug\PolygonManipulator.Properties.Resources.resources
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\obj\Debug\PolygonManipulator.csproj.GenerateResource.cache
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\obj\Debug\PolygonManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\obj\Debug\PolygonManipulator.exe
+C:\Users\Ela\Documents\Visual Studio 2017\Projects\PolygonManipulator\PolygonManipulator\obj\Debug\PolygonManipulator.pdb
